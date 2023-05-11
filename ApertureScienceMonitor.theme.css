@@ -1,5 +1,5 @@
 /**
- * @name Fallout 4 Terminal
+ * @name Aperture Laboratories Monitor Theme
  * @author Bates#7075
  * @version 2.0.0
  * @source https://github.com/CommandCrafterHD/Fallout4TerminalTheme
@@ -19,7 +19,7 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight: 156, 105, 19; /* The main highlight color */
+  --rgb-highlight: 204, 134, 16; /* The main highlight color */
   --rgb-background: 61, 38, 6; /* The main background color */
   --rgb-text: 235, 179, 12; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
