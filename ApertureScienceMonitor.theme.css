@@ -20,7 +20,7 @@
   --rgb-highlight: 214, 135, 2;
   --highlight: var(--text-color);
   --background: #090500;
-  --text-color: rgb(239, 140, 74);
+  --text-color: rgb(239, 176, 74);
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
